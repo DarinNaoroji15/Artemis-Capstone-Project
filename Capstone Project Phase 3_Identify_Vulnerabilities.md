@@ -101,6 +101,7 @@ The application is an open source web application scanner. The tool helps identi
 How I will use W3af: To set up W3af, I would install W3af. I will configure the app to intercept and take any web applications by Artemis. Then I will use the scanner to automate and will detect and report vulnerabilities. Then I will use the proxy tool to perform manual exploitation that I mentioned earlier for SQL injection or XSS.
 
 Pros:
+
 ●	This tool supports GUI and CLI. 
 
 ●	It is super useful for learning and testing in a lab environment. 
