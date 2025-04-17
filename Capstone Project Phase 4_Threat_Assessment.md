@@ -55,6 +55,7 @@ Most of the Windows Operating systems, especially older, and Windows servers 200
 9.8 Critical score.
 
 
+
 2.	Web application is vulnerable to SQL Injection
 
 ●	Description of the vulnerability
@@ -110,6 +111,7 @@ MySQL, PostgreSQL, Oracle, Microsoft SQL Server.
 9.8 Critical score.
 
 
+
 3.	Default password on Cisco admin portal
 
 ●	Description of the vulnerability
@@ -155,6 +157,7 @@ Cisco ASA, Meraki, Cisco IOS.
 ●	CVSS score
 
 10.0 critical score.
+
 
 
 4.	Apache web server vulnerable to CVE-2019-0211
@@ -206,6 +209,7 @@ Apache HTTP servers 2.4.17 to 2.4.38 on Unix OS.
 8.8 High score.
 
 
+
 5.	Web server is exposing sensitive data
 
 ●	Description of the vulnerability
@@ -255,6 +259,7 @@ Linux servers, Windows, Apache, etc.
 7.5 High score.
 
 
+
 6.	Web application has broken access control
 
 ●	Description of the vulnerability
@@ -300,6 +305,7 @@ Windows servers and Linux.
 ●	CVSS score
 
 9.8 Critical score.
+
 
 
 7.	Oracle WebLogic Server vulnerable to CVE-2020-14882
@@ -349,6 +355,7 @@ Oracle WebLogic Servers: 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0, 14.1.1.
 9.8 Critical score.
 
 
+
 8.	Misconfigured cloud storage (AWS security group misconfiguration, lack of access restrictions)
 
 ●	Description of the vulnerability
@@ -394,6 +401,7 @@ AWS, Azure, Linux, etc.
 ●	CVSS score
 
 9.0 Critical score.
+
 
 
 9.	Microsoft Exchange Server vulnerable to CVE-2021-26855
