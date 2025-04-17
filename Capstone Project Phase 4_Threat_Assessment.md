@@ -56,6 +56,9 @@ Most of the Windows Operating systems, especially older, and Windows servers 200
 
 
 
+
+
+
 2.	Web application is vulnerable to SQL Injection
 
 ●	Description of the vulnerability
