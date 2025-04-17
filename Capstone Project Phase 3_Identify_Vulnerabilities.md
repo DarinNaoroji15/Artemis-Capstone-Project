@@ -16,6 +16,7 @@ Cons:
 ●	The full version requires payment and full functionality.
 ●	It requires a lot of resources to do the scans. 
 	 
+
 ![image](https://github.com/user-attachments/assets/52be9746-6b8e-43f9-8c85-249e76090290)
  
  
