@@ -3,6 +3,7 @@ For this phase of the project I will be identifying the vulnerabilities for the 
 1.	Tenable Nessus
 
 Tenable Nessus is a vulnerability scanner tool that is developed by Tenable that will help in investigating the Artemis organization. It assists in identifying vulnerabilities, misconfigurations, and compliance issues for a variety of devices. It can identify missing patches in various systems and applications.
+
 How I will use Nessus: To set up Nessus, install Nessus and configure the tool to scan specifically the Artemis’ network. Create, define, and scan to the target IP ranges. The scan will bring back vulnerabilities, misconfigurations, and compliance issues. This tool will provide the results in the Nessus’ dashboard. This dashboard will prioritize the vulnerabilities on severity and the next step is to follow and remediate steps provided. 
 
 Pros: 
@@ -21,18 +22,30 @@ Cons:
 	 
 ![image](https://github.com/user-attachments/assets/52be9746-6b8e-43f9-8c85-249e76090290)
  
+![image](https://github.com/user-attachments/assets/7b8d4fbe-71b0-4594-8737-70cb482baefe)
+
+
  
 2.	Burp Suite
-	Burp Suite is a well known tool that is used for web application security. It offers a range of tools and focuses on exploiting web applications and weaknesses. These weaknesses can range from SQL injection, Cross Site scripting, etc. 
-	How I will use Burp Suite: To set up Burp Suite, I would install Burp Suite. I will configure Burp to intercept and take any web applications by Artemis. Then I will use the scanner to automate and will detect and report vulnerabilities. Then I will use the proxy tool to perform manual exploitation that I mentioned earlier for SQL injection or XSS.
-	Pros:
+
+Burp Suite is a well known tool that is used for web application security. It offers a range of tools and focuses on exploiting web applications and weaknesses. These weaknesses can range from SQL injection, Cross Site scripting, etc. 
+
+How I will use Burp Suite: To set up Burp Suite, I would install Burp Suite. I will configure Burp to intercept and take any web applications by Artemis. Then I will use the scanner to automate and will detect and report vulnerabilities. Then I will use the proxy tool to perform manual exploitation that I mentioned earlier for SQL injection or XSS.
+
+Pros:
+
 ●	Offers both automated and manual testing methods.
+
 ●	It is comprehensive and an extremely powerful scanner.
+
 Cons:
+
 ●	It can be quite hard for new users to learn and use.
+
 ●	The search is limited since it mainly focuses on web apps over other levels like network.
  
  
+
 Encountered some problems with the application but I found an additional screenshot on how it should operate. 
  
  
