@@ -16,7 +16,8 @@ LinkedIn is an incredibly powerful platform that can identify employees, job tit
 Bing Search will do the same thing as Google Dorking when surfing on Google but through a different search engine that can have items that are not indexed by Google or any other search engine. To gain information about company details and employee intel. 
 
 4.	Glassdoor (Job Board)
-	Glassdoor provides practically most details about company details, from salaries, roles, reviews at working at any company. This will work for our reconnaissance phase to gather information about Artemis' work environment, culture, and technologies, and types of employees employed to work there.
+
+Glassdoor provides practically most details about company details, from salaries, roles, reviews at working at any company. This will work for our reconnaissance phase to gather information about Artemis' work environment, culture, and technologies, and types of employees employed to work there.
 
 6.	Indeed (Job Board)
 
