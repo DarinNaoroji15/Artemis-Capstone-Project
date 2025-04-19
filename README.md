@@ -5,11 +5,14 @@ These are the phases and steps in creating a penetration testing report for the 
 Capstone Project Phase 1_Perform_Reconnaissance: [Reconnaissance Phase
 ](https://github.com/DarinNaoroji15/Artemis-Capstone-Project/blob/main/Capstone%20Project%20Phase%201_Perform_Reconnaissance.md)
 
-Capstone Project Phase 2_Identify_Targets_and_Run_Scans: [Identification and Scanning Phase
+Capstone Project Phase 2_Identify_Targets_and_Run_Scans: [Identifying Targets and Scanning Phase
 ](https://github.com/DarinNaoroji15/Artemis-Capstone-Project/blob/main/Capstone%20Project%20Phase%202_Identify_Targets_and_Run_Scans.md)
 
-Capstone Project Phase 3_Identify_Vulnerabilities: https://github.com/DarinNaoroji15/Artemis-Capstone-Project/blob/main/Capstone%20Project%20Phase%203_Identify_Vulnerabilities.md
+Capstone Project Phase 3_Identify_Vulnerabilities: [Identify Vulnerablities Phase
+](https://github.com/DarinNaoroji15/Artemis-Capstone-Project/blob/main/Capstone%20Project%20Phase%203_Identify_Vulnerabilities.md)
 
-Capstone Project Phase 4_Threat_Assessment: https://github.com/DarinNaoroji15/Artemis-Capstone-Project/blob/main/Capstone%20Project%20Phase%204_Threat_Assessment.md
+Capstone Project Phase 4_Threat_Assessment: [Threat Assessment Phase
+](https://github.com/DarinNaoroji15/Artemis-Capstone-Project/blob/main/Capstone%20Project%20Phase%204_Threat_Assessment.md)
 
-Capstone Project Phase 5_ Reporting: https://github.com/DarinNaoroji15/Artemis-Capstone-Project/blob/main/Capstone%20Project%20Phase%205_%20Reporting.md
+Capstone Project Phase 5_ Reporting: [Reporting Phase
+](https://github.com/DarinNaoroji15/Artemis-Capstone-Project/blob/main/Capstone%20Project%20Phase%205_%20Reporting.md)
