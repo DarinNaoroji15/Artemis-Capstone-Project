@@ -1,3 +1,5 @@
+# Capstone Project Phase 2 Identify Targets and Run Scans
+
 This next phase for the project requires the identification of network scans and targets. The tools I will assess for this part will come from Kali Linux. These tools are useful regarding host discovery, host enumeration, and any other enumeration techniques to be used. The following tools from Kali Linux will be discussed in this phase. 
 
 1.	Nmap
