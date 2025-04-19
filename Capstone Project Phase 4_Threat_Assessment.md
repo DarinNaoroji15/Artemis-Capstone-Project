@@ -1,3 +1,5 @@
+# Capstone Project Phase 4 Threat Assessment
+
 This phase of the project will require me to fully assess and understand the following scenarios below. I am going to highlight the description of each vulnerability, which operating systems are affected, risks of attempting to exploit, risk (what could you or a threat actor do upon successful exploitation), the steps to take for remediation, and CVSS score them all.
 
 1.	Unpatched RDP is exposed to the internet
