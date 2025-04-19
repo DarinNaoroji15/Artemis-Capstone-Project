@@ -8,7 +8,7 @@ Capstone Project Phase 1_Perform_Reconnaissance: [Reconnaissance Phase
 Capstone Project Phase 2_Identify_Targets_and_Run_Scans: [Identifying Targets and Scanning Phase
 ](https://github.com/DarinNaoroji15/Artemis-Capstone-Project/blob/main/Capstone%20Project%20Phase%202_Identify_Targets_and_Run_Scans.md)
 
-Capstone Project Phase 3_Identify_Vulnerabilities: [Identify Vulnerablities Phase
+Capstone Project Phase 3_Identify_Vulnerabilities: [Identifying Vulnerablities Phase
 ](https://github.com/DarinNaoroji15/Artemis-Capstone-Project/blob/main/Capstone%20Project%20Phase%203_Identify_Vulnerabilities.md)
 
 Capstone Project Phase 4_Threat_Assessment: [Threat Assessment Phase
