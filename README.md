@@ -1,4 +1,4 @@
-Artemis Capstone Project
+# Artemis Capstone Project
 
 These are the phases and steps in creating a penetration testing report for the Gas company Artemis. Click on the links below to read the phases of the report. The last phase is a comprehensive look and summarized penetration testing report.
 
