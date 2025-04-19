@@ -1,4 +1,4 @@
-# Capstone Project Phase 1_Perform_Reconnaissance
+# Capstone Project Phase 1 Perform Reconnaissance
 
 The Reconnaissance phase for this project requires that we gather publicly available information to build our detailed profile target Artemis. I will be conducting a collection of information that identifies the possible vulnerabilities, the very understanding of the target's technological infrastructure, and gaining insight into their operations. Using readily available Open Source Intelligence (OSINT) techniques to gather details about Artemis. This is a company that truly mixes cloud and on-premise infrastructure. The following tools and methods will be launched and used to gather a range of publicly available data.
 
